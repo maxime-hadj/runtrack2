@@ -29,6 +29,6 @@ if (isset($_GET['surname'])) {
 	}	
 }
 
-var_dump($_GET['name'] ['surname']);
+var_dump($_GET);
 
 ?>
