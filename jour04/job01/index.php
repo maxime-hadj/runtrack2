@@ -11,7 +11,6 @@
 <form action="index.php" method="get">
 	<label>Name :</label>
 	<input type="text" name="name">
-	<input type="submit" value="submit">
 	<label>Surname :</label>
 	<input type="text" name="surname">
 	<input type="submit" value="submit">
