@@ -26,7 +26,7 @@ if (isset($_GET['name'])) {
 	echo "Hello" . $_GET['name'] . "!";
 
 if (isset($_GET['surname'])) {
-	echo "Hello" . $_GET['surname'] . "!";
+	echo "Hello Mr." . $_GET['surname'] . "!";
 	}	
 }
 
