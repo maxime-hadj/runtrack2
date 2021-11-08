@@ -1,6 +1,6 @@
 <?php
 
-const BR = '<br/>';
+//const BR = '<br/>';
 
 function hello() {
 	echo "Hello LaPlateforme";
