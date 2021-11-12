@@ -16,7 +16,6 @@
   <thead align="left" style="display: table-header-group">
   <tr>
      <th>Nom</th>
-     <th>ID étage</th>
      <th>Capacité</th>
   </tr>
   </thead>
@@ -29,7 +28,6 @@ foreach ($salles as $salle) :?>
   <tr>
         
         <td> <?php echo $salle ['nom']; ?></td>
-        <td> <?php echo $salle ['id_etage']; ?></td>
         <td> <?php echo $salle ['capacite']; ?></td>
   </tr>
 
